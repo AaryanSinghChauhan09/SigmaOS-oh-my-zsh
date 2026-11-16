@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-oh-my-zsh"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS oh-my-zsh component"
+
+[lib]
+name = "oh_my_zsh"
+path = "src/lib.rs"
